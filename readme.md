@@ -1,0 +1,1 @@
+auto push sitemap to baidu search
